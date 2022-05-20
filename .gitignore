@@ -1,0 +1,12 @@
+
+# Avoid changes of the node module folder
+/node_modules
+
+/server
+
+#apidoc
+/apidoc
+
+/public
+
+.env
